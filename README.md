@@ -1,6 +1,6 @@
 SAML Protocol middleware to create SAMLP identity providers for node.js.
 
-[![Build Status](https://travis-ci.org/auth0/node-samlp.png)](https://travis-ci.org/auth0/node-samlp)
+*Temporary fork to resolve licensing issues with xml-encryption (used by saml)*
 
 ## Installation
 
